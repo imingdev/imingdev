@@ -1,4 +1,4 @@
-## 关于我 🤗
+## 关于 🤗
 
 - 📮 邮箱：mingdev@163.com
 - 🔗 博客：<a href="https://www.mingdev.com" target="_blank">开发日记</a>
